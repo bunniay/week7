@@ -5,8 +5,8 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed;
-
-
+    public AudioSource Eat;
+    public AudioClip Chomp;
     // Start is called before the first frame update
     void Start()
     {
@@ -31,7 +31,13 @@ public class Player : MonoBehaviour
 
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)) {
             transform.position += new Vector3(speed, 0, 0) * Time.deltaTime;
+        }       
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Rat"))
+        {
+            Eat.PlayOneShot(Chomp);
         }
-        
     }
 }

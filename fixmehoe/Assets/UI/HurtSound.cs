@@ -7,8 +7,9 @@ using TMPro;
 public class HurtSound : MonoBehaviour
 {
     TextMeshProUGUI text;
-
-    public string[] hurtSounds;
+    
+    List<string> hurtSounds = new List<string> { "OW", "WHAT THE FUCK", "OUCHIE", "OOF" };
+   // public string[] hurtSounds;
 
     // Start is called before the first frame update
     void Start()
@@ -23,7 +24,7 @@ public class HurtSound : MonoBehaviour
     }
 
     public void DisplayARandomHurtText() {
-        string randomHurtSound = hurtSounds[Random.Range(0, hurtSounds.Length)];
+        string randomHurtSound = hurtSounds[Random.Range(0, hurtSounds.Count)];
         text.text = randomHurtSound;
     }
 }

@@ -131,6 +131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.0800004
@@ -197,6 +201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.75
@@ -257,6 +265,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -333,7 +345,7 @@ GameObject:
   - component: {fileID: 287706659}
   m_Layer: 0
   m_Name: Enemies
-  m_TagString: Untagged
+  m_TagString: Rat
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -402,6 +414,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3
@@ -462,6 +478,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -530,6 +550,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.05
@@ -590,6 +614,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -655,6 +683,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -736,6 +768,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.1600001
@@ -792,6 +828,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -995,6 +1035,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11.76
@@ -1197,8 +1241,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 303c865c6afbb97508f1c6e7594d775c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hurtSounds:
-  - '  '
 --- !u!1001 &726009655
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1210,6 +1252,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1272,6 +1318,7 @@ GameObject:
   - component: {fileID: 732244120}
   - component: {fileID: 732244119}
   - component: {fileID: 732244118}
+  - component: {fileID: 732244122}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1362,6 +1409,103 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!82 &732244122
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 732244117}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!4 &804947845 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
@@ -1378,6 +1522,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1444,6 +1592,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.9100003
@@ -1500,6 +1652,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1566,6 +1722,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1591,7 +1748,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.24256852, g: 0.745283, b: 0.5301071, a: 0}
+  m_BackGroundColor: {r: 0.6474831, g: 0.5872642, b: 0.7830189, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1647,6 +1804,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 0
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_AllowHDROutput: 1
+  m_UseScreenCoordOverride: 0
+  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_TaaSettings:
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
+  m_Version: 2
 --- !u!4 &977294716 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
@@ -1759,6 +1960,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.26
@@ -1823,6 +2028,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1891,6 +2100,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.8399997
@@ -1952,6 +2165,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2018,6 +2235,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.03
@@ -2078,6 +2299,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2143,6 +2368,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2299,6 +2528,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  Eat: {fileID: 732244122}
+  Chomp: {fileID: 8300000, guid: 64bb7c4f78544bb4fbdecdb91f17a1c2, type: 3}
 --- !u!61 &1379391442
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2394,6 +2625,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.62
@@ -2459,6 +2694,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2589,6 +2828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.3399997
@@ -2652,6 +2895,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1610726809}
+  - component: {fileID: 1610726810}
   m_Layer: 5
   m_Name: Textbox
   m_TagString: Untagged
@@ -2677,9 +2921,21 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -736.13513, y: 429.73462}
+  m_AnchoredPosition: {x: -6, y: 112.6}
   m_SizeDelta: {x: 320.8074, y: 107.6105}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1610726810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1610726808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 303c865c6afbb97508f1c6e7594d775c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HurtSound
 --- !u!1001 &1683780821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2691,6 +2947,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2764,6 +3024,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.164615
@@ -2824,6 +3088,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2886,6 +3154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.012516
@@ -2946,6 +3218,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3013,6 +3289,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.82
@@ -3077,6 +3357,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3158,6 +3442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.8347404
@@ -3214,6 +3502,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3291,6 +3583,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.99
@@ -3358,6 +3654,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
+      objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.809999
@@ -3418,6 +3718,10 @@ PrefabInstance:
     - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 26046922379943490, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
+      propertyPath: m_TagString
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 7453518130757108054, guid: eca547b14405910d385ff86dc35b32ae, type: 3}
       propertyPath: m_LocalPosition.x
